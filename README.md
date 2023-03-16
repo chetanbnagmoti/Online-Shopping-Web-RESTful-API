@@ -23,10 +23,4 @@ Install the necessary dependencies using the package manager for both the front-
 Set up a MySQL database and configure the connection settings in the back-end code
 Start the back-end server by running the command mvn spring-boot:run
 Start the front-end server by running the command npm start
-Contributors
-Jane Doe (Project Lead)
-John Smith (Front-end Developer)
-Sarah Lee (Back-end Developer)
-Peter Chen (Database Administrator)
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+
