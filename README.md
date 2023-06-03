@@ -1,5 +1,4 @@
 # Online Shopping Web - RESTful API
-Description: Online Shopping Web - RESTful API
 
 The Online Shopping Web - RESTful API project is focused on providing a robust and efficient backend solution for an online shopping platform. This project specifically caters to the creation of RESTful APIs to facilitate various e-commerce functionalities.
 
