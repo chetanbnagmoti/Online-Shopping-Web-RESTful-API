@@ -1,26 +1,16 @@
-# Online-Shopping-Website-Project
-This is a self project for an online shopping website built using Java and React.js. The website allows users to browse and purchase a variety of products from different categories, such as electronics, clothing, and home goods.
-Online Shopping Website Project
-This is a self project for an online shopping website built using Java and React.js. The website allows users to browse and purchase a variety of products from different categories, such as electronics, clothing, and home goods.
+# Online Shopping Web - RESTful API
+Description: Online Shopping Web - RESTful API
 
-Features
-User authentication and authorization
-Product browsing and search functionality
-Shopping cart management and checkout process
-Integration with payment gateways
-Order tracking and history
-Admin panel for managing products, orders, and users
-Technologies
-Java Spring framework for back-end development
-React.js for front-end development
-MySQL for database management
-RESTful API architecture for communication between the front-end and back-end
-Installation
-To run the project locally, follow these steps:
+The Online Shopping Web - RESTful API project is focused on providing a robust and efficient backend solution for an online shopping platform. This project specifically caters to the creation of RESTful APIs to facilitate various e-commerce functionalities.
 
-Clone the repository to your local machine
-Install the necessary dependencies using the package manager for both the front-end and back-end
-Set up a MySQL database and configure the connection settings in the back-end code
-Start the back-end server by running the command mvn spring-boot:run
-Start the front-end server by running the command npm start
+The project's primary objective is to develop a set of APIs that enable seamless interaction between the frontend and backend components of an online shopping website. These APIs are responsible for handling essential operations, including product listing, product details, cart management, order processing, user authentication, and more.
 
+The backend of the application is developed using modern technologies and frameworks, such as Spring Boot, to ensure scalability, performance, and maintainability. The Spring Boot framework simplifies the development process, allowing for quick creation of RESTful APIs and integration with other necessary components.
+
+The Online Shopping Web - RESTful API project focuses solely on the backend development and does not include a frontend implementation. This approach allows for flexibility, as developers can choose their preferred frontend technologies and frameworks to consume the provided APIs.
+
+This Git repository serves as a collaborative space for developers to contribute to the project's backend development. It includes the source code, documentation, and relevant resources specific to the RESTful API implementation. Developers are encouraged to enhance existing functionalities, add new features, and ensure code quality and best practices.
+
+The project aims to create a scalable and efficient API solution for online shopping purposes. It provides the necessary foundation for building a full-fledged online shopping web application by enabling seamless data exchange between the frontend and backend components.
+
+Please note that the project is focused on the backend API development, and integration with a frontend application is required to create a complete online shopping experience. The repository welcomes contributions from the open-source community to enhance the project and deliver a reliable and feature-rich backend solution for online shopping.
